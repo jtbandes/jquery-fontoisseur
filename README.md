@@ -6,4 +6,4 @@ A simple jQuery plugin for sampling and choosing fonts. Best with the [Google We
 
 Move your mouse across elements to view the different fonts. Press the spacebar to pick the default font for an element. Hover over an element to view the title text containing your chosen font.
 
-[Here's a demo.](https://jtbandes.github.com/jquery-fontoisseur)
+[Here's a demo.](http://jtbandes.github.com/jquery-fontoisseur)
